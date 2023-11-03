@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/transaction-management-app/static/js/main.8ab6174c.js",
+    "index.html": "/transaction-management-app/index.html",
+    "main.8ab6174c.js.map": "/transaction-management-app/static/js/main.8ab6174c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8ab6174c.js"
+  ]
+}
